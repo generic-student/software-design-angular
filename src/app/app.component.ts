@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   // templateUrl: './app.component.html',
   // styleUrls: ['./app.component.css']
-  template: '<h1>inline stuff</h1><app-c1></app-c1><app-c2></app-c2><app-c3></app-c3>',
+  template: '<h1>inline stuff</h1><app-c1>saftpresse</app-c1><app-c2></app-c2><app-c3></app-c3>',
   styles: ['h1{color:green;}']
 })
 export class AppComponent {
